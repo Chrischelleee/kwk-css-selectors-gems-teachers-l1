@@ -26,7 +26,7 @@
 }
 
 /* Select the image with the class "yellow_diamond" */
-/*#ocean + img*/
+#ocean + img
 /*selector for yellow diamond goes here */ {
   position: absolute;
   z-index: 4;
